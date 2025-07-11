@@ -1,10 +1,6 @@
 # Project-Allocation-System
-A student project allocation system in PHP.
+A  project allocation system in PHP.
 
-### Author : VATSAL JAGANI
-Supporter : Axit Jariwala
-            Hiren Italiya
-            Mohit Jain
 
 ## DATABASE
 database sql file for import from phpmyAdmin is inside images/database
